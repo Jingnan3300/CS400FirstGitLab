@@ -1,4 +1,7 @@
 /*
+ *	name: Jingnan MA
+ *	email: jma335@wisc.edu
+ *	CS account: Jingnan
  *	Color class
  */
 public class Color{

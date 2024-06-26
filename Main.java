@@ -1,5 +1,8 @@
 /*
- * Test the use of the Color method
+ * name: Jingnan MA
+ * email: jma335@wisc.edu
+ * CS account: Jingnan
+ *  Test the use of the Color method
  */
 import java.util.*;
 
